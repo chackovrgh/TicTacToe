@@ -72,13 +72,3 @@ web:
 
 npx expo start --web
 
-## Contributing
-
-1. Clone the repository:
-
-      git clone https://github.com/chackovrgh/TicTacToe.git
-      cd TicTacToe
-
-2. npm install (to install the necessary modules required)
-
-3. npx expo start (to run the app)
