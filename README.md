@@ -72,3 +72,10 @@ web:
 
 npx expo start --web
 
+## output images
+![WhatsApp Image 2024-08-10 at 10 28 32_48885417](https://github.com/user-attachments/assets/2e025936-33df-4b9c-929e-7cc1e3dfff58)
+![WhatsApp Image 2024-08-10 at 10 28 33_c1c29a0e](https://github.com/user-attachments/assets/fbfbeece-2c6a-417e-b18c-0d6fdc4e25bf)
+![WhatsApp Image 2024-08-10 at 10 28 33_9aad1189](https://github.com/user-attachments/assets/0143d5e9-42df-48da-881d-64512e50e680)
+![WhatsApp Image 2024-08-10 at 10 28 34_8f8e56db](https://github.com/user-attachments/assets/1773b329-6c92-485c-ae29-6467f985d012)
+
+
